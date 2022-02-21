@@ -1,9 +1,0 @@
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\bin\Debug\netcoreapp3.1\StringStatistics.Services.deps.json
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\bin\Debug\netcoreapp3.1\StringStatistics.Services.dll
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\bin\Debug\netcoreapp3.1\StringStatistics.Services.pdb
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\obj\Debug\netcoreapp3.1\StringStatistics.Services.GeneratedMSBuildEditorConfig.editorconfig
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\obj\Debug\netcoreapp3.1\StringStatistics.Services.AssemblyInfoInputs.cache
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\obj\Debug\netcoreapp3.1\StringStatistics.Services.AssemblyInfo.cs
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\obj\Debug\netcoreapp3.1\StringStatistics.Services.csproj.CoreCompileInputs.cache
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\obj\Debug\netcoreapp3.1\StringStatistics.Services.dll
-D:\My Documents\Career\Development\string-statistics\StringStatistics.Services\obj\Debug\netcoreapp3.1\StringStatistics.Services.pdb
